@@ -49,8 +49,6 @@ def test():
     print('', end='\n')
 
 
-
-# Define a main() function that prints a little greeting.
 def main():
     total = input()
     for _ in range(total):
